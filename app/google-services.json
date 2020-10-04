@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "8986580377",
+    "firebase_url": "https://cost-management-53bc6.firebaseio.com",
+    "project_id": "cost-management-53bc6",
+    "storage_bucket": "cost-management-53bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8986580377:android:b73355d48bac26c84b2f08",
+        "android_client_info": {
+          "package_name": "com.example.costmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8986580377-nb9pqvhfdp8l235k9hgqkhvaumcbq5ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.costmanagement",
+            "certificate_hash": "05311f1bd344edb66986a437559fbad037f76087"
+          }
+        },
+        {
+          "client_id": "8986580377-13h9h35qbf6r013349q5dvj9c76eofde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtSCvAwl9OWdzcOszNjkJg695ZsmfHNEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8986580377-13h9h35qbf6r013349q5dvj9c76eofde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
